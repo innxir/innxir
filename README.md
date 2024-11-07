@@ -1,4 +1,4 @@
-silly guy tryna be a competent dev
+what am i doing
 
 <!---
 innxir/innxir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
